@@ -1,0 +1,504 @@
+{     
+  "dua_list": [
+  {
+    "name": "Favorite Dua",
+    "no": [
+      {
+        "index": 1,
+        "arabic":  " َاللَّهُمَّ أَغْنِنِي بِالْعِلْمِ وَزَيِّنِّيْ بِالْحِلْمِ وَأَكْرِمْنِيْ بِالتَّقْوٰى وَجَمِّلْنِيْ بِالْعَافِيَةِ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      }, 
+      {
+        "index": 2,
+        "arabic":  " أَللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لاَ يَنْفَعُ وَقَلْبٍ لاَ يَخْشَعُ وَنَفْسٍ لاَ تَشْبَعُ وَدُعَاءٍ لاَ يُسْمَعُ. أَللّٰهُمَّ إِنَّي أَعُوذُ بِكَ مِنْ هٰؤُلاَءِ الأَرْبَعِ.",
+        "english": " ",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      },
+      {
+        "index": 3,
+        "arabic":  " أَللّٰهُمَّ لَكَ الْحَمْدُ لاَ إِلٰهَ إِلاَّ أَنْتَ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ. أَللّٰهُمَّ اذْهِبْ عَنَّا الْهَمَّ وَالْحُزْنَ وَالْفِتَنَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ",
+        "english": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      },
+
+     
+     
+      {
+        "index": 4,
+        "arabic":  " اَللَّهُمَّ اَعِنِّىْ علَى غَمَرَاتِ الْمَوْتِ وَ سَكَرَاتِ الْمَوْتٍ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        
+        "index": 5,
+        "arabic":  " رَبِّ يَسِّرْوَلَا تُعَسِّرْ وَ تَمِّمْ بِلْخَيْرٌ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 6,
+        "arabic":  " اَللَّهُمَّ اِنِّىْ اَعُوْذُبِكَ مِنْ جَهْدِ الْبَلَآءِ، وَدَرْكِ الشَّقَآءِ، وَسُؤْءِ الْقَضَآءِ، وَشَمَاتَةِ الْاَعْدَآءِ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      }, 
+      {
+        "index": 7,
+        "arabic":  " اَللَّهُمَّ اِنِّىْ اَعُوْذُبِكَ مِنْ الهَمِّ وَالْحَزَنْ، اَللَّهُمَّ اِنِّىْ اَعُوْذُبِكَ مِنَ الْعَجْزِوَ الْكَسَل، اَللَّهُمَّ اِنِّىْ اَعُوْذُبِكَ مِنَ الْجُبْنِ و الْبُخُلْ، اَللَّهُمَّ اِنِّىْ اَعُوْذُبِكَ مِنَ غَلَبَةِ الدَّيْنِ وَ قَهْرِالرْجَال",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 8,
+        "arabic":  " رَبِّ يَسِّرْ وَلِاْ تُيَسِّرْ تَمِّمْ بِلْخَيَّرْ ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+      {
+        "index": 9,
+        "arabic":  " اَلَّهُمَ اِنِّى اَعُوْذُبِكَ مِنْ شَتَاتِلْ اَمْرٌ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+      {
+        "index": 10,
+        "arabic":  " لَا اِلَهَ اِلَّا للَّه وَحْدَهُ لَا شَرِيْكَ لَهُ اَحَدًا صَمَدًا لَمْ يَلِدْ وَلَمْ يُوْ لَدْ وَلَمْ يَّكُنَ لَّهُ كُفُوًآَحَدًا",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 11,
+        "arabic":  " سُبْحَانَ اللَّه الْعَظِيْمِ وَبِحَمْدِهِ لَا حَوْلَ وَلَا قُوْةَ اِلَّا بِاللَّهِ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 12,
+        "arabic":  " اللَّهُ أَكْبَرُ كَبِيْرًا وَالْحَمْدُ للِّهِ كَثِيْرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَّأَصِيْلاً ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 13,
+        "arabic":  " يَامُقَلِبُ الْقُلُوْبِ ثَبِّتْ قَلْبِىْ عَلَى دِيْنِكَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 14,
+        "arabic":  " اَلَّهُمَّ حَاسِبْنِى حِسَابًا يَّسِيْرًا",
+        "english": "",
+        "spanish": "",
+        "chianses": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      
+      {
+        "index": 15,
+        "arabic":  " اَلَّهُمَّ اِنِْئ اَعُوْذُبِكَ مِنْ الشِّقَاقِ وَالنِّفَاقِ وَسُؤءِ الْاَخْلَاقَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      
+      {
+        "index": 16,
+        "arabic":  " اَلَّهُمَّ اِنِْئ اَسْلُكَ عِلْمًا نَّافِعًا وَّ رِزْقًا طَيِّبًا وَّ عَمَلًا مُّتَقَبَّلًا",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+     
+     
+      {
+        "index": 17,
+        "arabic":  " اَلَّهُمَّ اِنِْئ اَسْلُكَ الْعَفْوَ وَ الْعَافِيَةَ فِى الدُّنْيَا وَالْآخِرَةِ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",   
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 18,
+        "arabic":  " اَلَّهُمَّ اِنِْئ اَسْلُكَ الْهُدآى وَالتُقئَ وَالْعَفَافَ وَالْغِنئَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 19,
+        "arabic":  " اَلَّهُمَّ اِنِْئ اَسْلُكَ عِيْشَةً نَّقِيَّةً وَّ مِيْتَةً سَوِيَّةً",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+      {
+        "index": 20,
+        "arabic":  " اَلَّهُمَّ اِنِْئ اَسْلُكَ اَحْسِنْ عَاقِبَتَنَا فِى الْاُمُوْرِ كُلِّهَا وَاَجِرْنَا مِنْ خِزْىِ الدُّنْيَا وَالْأَخِرَةٍ",
+        "english": "",
+        "spanish": "",
+        "urdu": "", 
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+    
+     
+      {
+        "index": 21,
+        "arabic":  " اَلَّهُمَّ اغْفِرْلْى وَارْحَمْنِىْ وَعَافِنِىْ وَارْزُقْنِى",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 22,
+        "arabic":  " اَلَّهُمَّ افْتَحْ لَنَآ اَبْوَابَ رَحْمَتِكَ وَ سَهِّلْ لَنَآ اَبْوابَ رِزْقِكَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 23,
+        "arabic":  " اَلَّهُمَّ اجْعَلْ اَوْسَعَ رِزْقِكَ عَلَىَّ عِنْدَ كِبَرِ سِنِّىْ وَانْقِطَاعِ عُمُرِىْ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 24,
+        "arabic":  " اَلَّهُمَّ مَتِّعْنَا بِاَسْمَاعِنَا وَاَبْصَارِنَا وَقُوَّاتِنَا اَبَدًا مَّا اَبْقَيْتَنَا",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      },
+     
+      {
+        "index": 25,
+        "arabic":  " اَلَّهُمَّ اِنِّى اَعُوْذُبِكَ مِنْ الْبَرَصِ وَالْجُنُونِ وَالْجُذَامِ وَمِنْ سَيِّئِ الْاَسْقَامِ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      },
+      {
+        "index": 26,
+        "arabic":  " اَلَّهُمَّ اِنِّى اَعُوْذُبِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمَيْعِ سَخَطِاكَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 27,
+        "arabic":  " اَلَّهُمَّ اِنِّى عَافِنِيْ فِيْ بَدَنِيْ، اَلَّهُمَّ اِنِّى عَافِنِيْ فِيْ سَمْعِيْ، اَلَّهُمَّ اِنِّى عَافِنِيْ فِيْ بَصَرِيْ، لَآ اِلَهَ اِلآَّ اَنْتَ",
+        "english": "",
+        "spanish": "",
+        "urdu": " ",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+      {
+        "index": 28,
+        "arabic":  " اَعُوْذُ بِكَلِمَاتِ اللَّه التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+     
+      
+      {
+        "index": 29,
+        "arabic":  " سُبْحَانَ اللَّهِ وَبِحَمْدِهِ ، و سُبْحَانَ اللَّهِ الْعَظِيْمَ ، أَسْتَغْفِرُاللَّهَ الْعَظِيْمَ، الَّذِى لَاإِلَهَ إلَّاهُوَ الْحَىُّ القَيُّومُ وَ أَتُوْبُ إِلَيهِ حَسْبِىَ اللَّهُ لَآ إِلَهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِ ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      },
+      
+      {
+        "index": 30,
+        "arabic":  " اَلَّهُمَ اِنِّى اَعُوْذُبِكَ مِنَ الْبُخْلِ وَ اَعُوْذُبِكَ مِنَ الْجُبْنِ وَ اَعُوْذُبِكَ اَنْ اَرُدَّ اِلَى الْعُمُرِ وَ اَعُوْذُبِكَ مِنْ فِتْنَةِ الدُّنْيِا واَعُوْذُبِكَ مِنْ عَذَابِ الْقَبْرِ ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+    
+     
+     
+      {
+        "index": 31,
+        "arabic":  " اَلَّهُمَّ لَاتُسلِّطْ عَلَيْنَا مَنْ لَّا يَرْحَمُنَا، وَلَا يَخَافُكَ فِيْنَا ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+     
+    
+    
+      {
+        "index": 32,
+        "arabic":  " اَلَّهُمَّ اِنِّىْ اْعُوْذُبِكَ مِنْ يَوْمِ السُّوْءِ وَمِنْ لَيْلَةِ السُوْءِ وَمِنْ سَاعَةِالسُّوْءِ وَمِنْ صَاحِبِ السُّوءِ وَمِنْ جَارِالسُوءِ فِىْ دَارِ المُقَامَةِ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 33,
+        "arabic": " اَلَّهُمَّ إِنِّى أَعُوذُبِكَ مِنْ خَلِيلٍ مَاكِرٍ عَيْنَهُ تَرَانِى، وَقَلْبُهُ يَرعَانِى، إِنْ رَأَى حَسَنَةَ دَفَنَهَا، وَإِذَا رَأَى سَيِّئَةً أَذَاعَهَا",
+        "english": "",
+        "spanish": "",
+        "urdu": "",   
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      },
+    
+      {
+        "index": 34,
+        "arabic":  " اَللَّهُمَّ اِنِّا نَجْعَلْكَ فِى نُحُورِهِمْ وَ نَعُوْذُبِكَ مِنْ شُرُوْرِهِمْ ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 35,
+        "arabic":  "اللَّهُمَّ إِنَّكَ عُفُوٌّ كَرِيمٌ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+        "english": "s",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 36,
+        "arabic":  " اَللَّهُمَّ اكْفِنِى بِحَلَالِكَ عَنْ حَرَامِكَ وَاَغْنِنِىْ بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+     
+  
+      {
+        "index": 37,
+        "arabic":  " اَعُوْذُ بِكَلِمَاتِ اللَّه التِآمَّةِ مِنْ كُلِّ شَيْطَانٍ وَّهَآمَّةٍ وَمِنْ كُلِّ عَيْنٍ لَّآمَّةٍ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 38,
+        "arabic":  " يَا رَبِّ لَـكَ الْحَـمْـدُ كَـمَـا يَـنْـبَـغِـيْ لِـجَـلَالِ وَجْـهِـكَ وَعَـظِـيْـمِ سُــلْـطَـانِـكَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      },
+     
+      {
+        "index": 39,
+        "arabic":  " سُبْحَـانَ اللَّهِ وَبِحَمْـدِ هِ ، عَدَ دَ خَلْـقِهِ ، وَرِضَـا نَفْسِـهِ ، وَزِنَـةَ عَـرْشِـهِ ، وَمِـدَ ادَ كَلِمَـاتِـهِ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",     
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 40,
+        "arabic":  " بِسْـمِ اللَّهِ الَّذِ يْ لَا يَضُـرُّ مَعَ اسْمِـهِ شَيْ ءٌ فِي الْأَ رْضِ وَلَا فِي السَّمـآءِ ، وَهُـوَ السَّمِـيْعُ الْعَلِـيْمُ",
+        "english": "",
+        "spanish": "",
+        "urdu": "", 
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 41,
+        "arabic":  " اَللَّهُـمَّ إِ نِّـيْ أَعُـوذُ بِــكَ مِـنْ أَنْ أُ شْرِكَ بِـكَ شَـيْـئاً أَعْلَمُ ، وَأَسْـتَغْـفِـرُكَ لِمَا لَا أَعْلَمُ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 42,
+        "arabic":  " أَعُـوْذُ بِكَلِمَـاتِ اللَّهِ ا لتَّـا مَّـاتِ مِنْ شَـرِّ مَا خَلَـقَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 43,
+        "arabic":  " يَاحَـيُّ يَا قَـيُّـوْمُ ، بِـرَحْمَـتِكَ أَسْتَـغِـيْثُ ، أَصْلِـحْ لِي شَـأْ نِـيْ كُلَّـهُ ، وَلَا تَكِلْـنِيْ إِ لَى نَفْـسِيْ طَـرْفَةَ عَـيْنٍ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+      {
+        "index": 44,
+        "arabic":  " يَا رَبِّ لَـكَ الْحَـمْـدُ كَـمَـا يَـنْـبَـغِـيْ لِـجَـلَالِ وَجْـهِـكَ وَعَـظِـيْـمِ سُــلْـطَـانِـكَ",
+        "english": "",
+        "spanish": "",
+        "urdu": "", 
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+      },
+    
+      {
+        "index": 45,
+        "arabic":  " اأَلْحَمْدُ لِلّٰهِ الَّذِي بِنِعْمَتِهِ تَتِمُّ الصَّالِحَاتُ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      }
+      
+    ]
+  }
+]
+}
