@@ -79,6 +79,16 @@
       "favorite":false,
       "type":"quran",
       "title": "Quran Dua"
+    },
+    {
+      "index": 54,
+      "arabic":  "اَللَّهُمَّ  كَمَا حَسَّنْتَ خَلْقِى فَحَسِّنْ خُلُقِىْ  ",
+      "english": "",
+      "spanish": "",
+      "urdu": "",
+      "favorite":false,
+      "type":"quran",
+      "title": "Quran Dua"
     }
       
     ]
